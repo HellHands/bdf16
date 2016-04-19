@@ -1,0 +1,23 @@
+border-top: 2px solid #593317;
+    background: url("../img/bg.png") repeat fixed;
+    background-color: #dd4b2f;
+
+
+    padding-left: 0;
+    padding-right: 0;
+    width: 50%;
+    float: left;
+    background: #f4bd63 url("../img/bg2.png") repeat;
+
+    "Vinyl", Arial, sans-serif
+
+
+    font-family: Larish,serif;
+    font-weight: 300;
+    font-size: 3.75em;
+    letter-spacing: -1px;
+    line-height: 50px;
+    margin-bottom: 35px;
+    display: inline-block;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
